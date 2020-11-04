@@ -2,3 +2,5 @@ I tried to build a simple game environment using Q-learning in reinforcement lea
 
 To run the code:
 Just run the environment.py file and agen will be start training.
+
+I have also started working on the hider and seeker game, and will push that as soon as I will finish.
